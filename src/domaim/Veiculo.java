@@ -7,6 +7,7 @@ public class Veiculo {
 	private int classe;  // 0 - Veículo individual  e  1 - frota veicular
 	private String placa;
 	private int anoFabricacao;
+	private String modelo;
 	
 	public Veiculo(){
 		
@@ -48,6 +49,14 @@ public class Veiculo {
 	}
 	public void setAnoFabricacao(int anoFabricacao) {
 		this.anoFabricacao = anoFabricacao;
+	}
+
+	public String getModelo() {
+		return modelo;
+	}
+
+	public void setModelo(String modelo) {
+		this.modelo = modelo;
 	}
 	
 	
