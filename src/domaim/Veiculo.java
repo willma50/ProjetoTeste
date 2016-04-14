@@ -4,10 +4,11 @@ public class Veiculo {
 	
 	private int id;
 	private String descricao;
-	private int classe;  // 0 - Veículo individual  e  1 - frota veicular
+	private int classe;  // 0 - VeÃ­culo individual  e  1 - frota veicular
 	private String placa;
 	private int anoFabricacao;
 	private String modelo;
+	private String teste;
 	
 	public Veiculo(){
 		
