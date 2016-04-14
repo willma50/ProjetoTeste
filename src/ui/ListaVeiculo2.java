@@ -1,6 +1,6 @@
 package ui;
 
-
+//teste
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -109,7 +109,7 @@ private static final long serialVersionUID = 1L;
 				} 
 			} 
 			else { 
-				JOptionPane.showMessageDialog(null, "… neces·rio selecionar uma linha."); } 
+				JOptionPane.showMessageDialog(null, "√â neces√°rio selecionar uma linha."); } 
 			} 
 	}
 
